@@ -44,6 +44,7 @@ Introducing the therapist
 
 - identity
 - diplomas, experience
+- articles with link to section
 - ...
 
 ### psychologist ethic chart
