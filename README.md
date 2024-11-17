@@ -1,6 +1,6 @@
 # Oxalis
 
-This website is under construction. It aims to introduce briefly the Oxalis Office (in french, "Cabinet Oxalis"), dedicated to psychotherapy, from a psychologist and neuropsychologist, especially for patient with neurodevelopment disorders, also known as neurodivergents.
+This website is under construction. It aims to introduce briefly the Oxalis Office (in french, "Cabinet Oxalis"), dedicated to psychotherapy, from a psychologist and neuropsychologist, especially for patients with neurodevelopment disorders, also known as neurodivergents.
 
 ## index.html structure
 
